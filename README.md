@@ -1,1 +1,1 @@
-# VFDPC
+C. Li, S. Ding, X. Xu, L. Guo, L. Ding and X. Wu, "Vertical Federated Density Peaks Clustering Under Nonlinear Mapping," in IEEE Transactions on Knowledge and Data Engineering, vol. 37, no. 2, pp. 1004-1017, Feb. 2025, doi: 10.1109/TKDE.2024.3487534.
